@@ -1,8 +1,29 @@
-# Dorcas Elijah
+# Hi, I'm Dorcas Elijah 👋
 
-**Creative technologist | Data science & analytics | AI | Mobile development | UI/UX**
+I'm a recent Information Science and Media Studies graduate interested in
+data, technology, and building user-focused digital products.
 
-I build practical, user-centered digital experiences across data, mobile applications, and interactive design. My projects bring together data analysis, machine learning, Flutter development, and visual storytelling.
+### Areas I work in
+
+- Data Science & Analytics
+- Machine Learning
+- Mobile Application Development
+- Product & UI/UX
+- AI
+
+### Technologies
+
+Python • SQL • Flutter • Dart • JavaScript • React • TensorFlow •
+Supabase • PostgreSQL
+
+### Featured Projects
+
+🔹 YSMA Smart Museum Experience
+🔹 Data Science Capstone
+
+### Connect
+
+Portfolio | LinkedIn | Email
 
 - 🌐 [Portfolio and project demos](https://dorcas-elijah-portfolio-936493.netlify.app/)
 - 💡 Focus areas: data analysis, machine learning, mobile applications, UI/UX, and creative technology
